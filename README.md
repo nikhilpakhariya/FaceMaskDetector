@@ -53,7 +53,7 @@ $ mkvirtualenv test
 $ pip3 install -r requirements.txt
 ```
 
-## :bulb: Working
+## Working
 
 1. Open terminal. Go into the cloned project directory and type the following command:
 ```
@@ -99,8 +99,8 @@ $ streamlit run app.py
 <p align="center">Results</p>
 
 ## Contributions 
-Nitin Kumar
-Nikhil Pakhariya
-Rahul Saroj
+* Nitin Kumar
+* Nikhil Pakhariya
+* Rahul Saroj
 
 ## Thank You
